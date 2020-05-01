@@ -2,9 +2,15 @@
 
 ## How to install
 
-Icons can be installed in your project with running
+You can Install the package in your project with:
 
-```npm i --save @hovakimyan/icons``` or  ```yarn add @hovakimyan/icons```
+```
+// with npm
+npm install @hovakimyan/icons
+ 
+// with yarn
+yarn add @hovakimyan/icons
+```
 
 ### Usage
 

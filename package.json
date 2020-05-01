@@ -8,10 +8,6 @@
     "publish-module": "NODE_ENV=publish ./scripts/publish.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:Hovakimyan/icons.git"
-  },
   "author": "Sergey Hovakimyan",
   "license": "ISC",
   "devDependencies": {
