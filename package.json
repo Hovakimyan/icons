@@ -1,6 +1,6 @@
 {
   "name": "@hovakimyan/icons",
-  "version": "1.0.13",
+  "version": "1.0.1",
   "description": "icons",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,16 @@
     "publish-module": "NODE_ENV=publish ./scripts/publish.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sergey Hovakimyan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hovakimyan/icons.git"
+  },
+  "author": "Sergey Hovakimyan <hovakimyan.serg@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hovakimyan/icons/issues"
+  },
+  "homepage": "https://github.com/Hovakimyan/icons#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
