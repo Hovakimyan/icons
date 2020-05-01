@@ -12,6 +12,15 @@ npm install @hovakimyan/icons
 yarn add @hovakimyan/icons
 ```
 
+### Demo
+List of icons you can check in my ui components library
+
+`https://hovakimyan.github.io/react-ui/?path=/story/atoms-icon--icons-list`
+
+Example of how to use icons in project, you can check in `Icon` atom of my ui components library
+
+`https://github.com/Hovakimyan/react-ui/tree/master/src/atoms/Icon`
+
 ### Usage
 
 Here you can find list of icons from material design
