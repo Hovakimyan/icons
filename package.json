@@ -1,0 +1,32 @@
+{
+  "name": "@renderforest/icons",
+  "version": "1.0.10",
+  "description": "Renderforest products icons list",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-dir lib",
+    "publish-module": "NODE_ENV=publish ./scripts/publish.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renderforest/icons.git"
+  },
+  "author": "Sergey Hovakimyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renderforest/icons/issues"
+  },
+  "homepage": "https://github.com/renderforest/icons#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-spread": "^7.8.3",
+    "@babel/polyfill": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "babel-plugin-inline-svg": "^1.0.1"
+  },
+  "dependencies": {
+    "core-js": "^2.6.11"
+  }
+}
