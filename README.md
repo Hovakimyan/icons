@@ -1,6 +1,12 @@
-# icons
+# @hovakimyan/icons
 
-### usage
+## How to install
+
+Icons can be installed in your project with running
+
+```npm i --save @hovakimyan/icons``` or  ```yarn add @hovakimyan/icons```
+
+### Usage
 
 Here you can find list of icons from material design
 
@@ -21,6 +27,8 @@ usages can be different
     - Import icons with groups `groups`
     - Import list of icon group names `iconGroupNames`
     - Import list of icon names `iconNames`
+    
+Every icons is SVG string 
     
 ### List of icon groups
 ```
